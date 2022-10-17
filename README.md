@@ -1,6 +1,6 @@
 # Tesla-Clone
 
-![preview](./.github/preview.png)
+![](https://media.giphy.com/media/CeshqQfTTL1bpnxxhv/giphy.gif)
 
 
 > Clever Programmer - Youtube
