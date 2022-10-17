@@ -10,6 +10,8 @@
 - ReactJS
 - JavaScript
 - NodeJS
+- CSS
+- HTML
 - Git e Github
 
 ## Contato 
